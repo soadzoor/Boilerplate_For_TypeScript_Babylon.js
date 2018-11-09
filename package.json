@@ -1,0 +1,22 @@
+{
+  "name": "Title",
+  "description": "Title",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "webpack",
+    "build prod": "node build/build prod"
+  },
+  "author": "Peter Varga",
+  "dependencies": {
+    "babylonjs": "^3.3.0",
+    "babylonjs-loaders": "^3.3.0",
+    "babylonjs-materials": "^3.3.0",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6",
+    "uglify-es": "^3.3.9",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "repository": "",
+  "license": ""
+}
